@@ -28,5 +28,5 @@ paru -S archlinux-java-run //为stm32cubemx提供运行环境
 
 ## 相关笔记
 
-- 下一篇:[STM32F103C8T6芯片引脚分布](STM32F103C8T6芯片引脚分布.md)  
-- 返回索引:[STM32](./STM32.md)  
+- 下一篇:[STM32F103C8T6芯片引脚分布](STM32F103C8T6芯片引脚分布.md)
+- 返回索引:[STM32](./STM32.md)
