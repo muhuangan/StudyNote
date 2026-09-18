@@ -20,7 +20,7 @@ archived: false
     2. 第二边沿采集
 
 4种时钟模式  
-![4种时钟模式](./resources/4种时钟模式.png)
+![4种时钟模式](../resources/4种时钟模式.png)
 
 ## 相关笔记
 

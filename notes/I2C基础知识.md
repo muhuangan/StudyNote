@@ -35,7 +35,7 @@ I2C通信过程:
 4. 停止位: 在SCL是高电压时, 向SDA发送上升沿
 
 I2C模式:  
-![I2C模式](./resources/I2C模式.png)
+![I2C模式](../resources/I2C模式.png)
 
 快速模式可以设置时钟信号的占空比:
 

@@ -7,7 +7,7 @@ tags:
 archived: false
 ---
 
-[README](./README.md)
+[README](../README.md)
 
 # STM32
 
