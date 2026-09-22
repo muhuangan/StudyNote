@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 190" width="660" height="190" role="img" aria-label="事件的并、交、差与对立文氏图">
+  <rect x="0" y="0" width="660" height="190" fill="#ffffff" rx="8"/>
+  <defs>
+    <clipPath id="clipA1"><circle cx="228" cy="74" r="32"/></clipPath>
+    <clipPath id="clipB2"><circle cx="416" cy="74" r="32"/></clipPath>
+  </defs>
+  <g fill="none" stroke="#afb8c1" stroke-width="1.2" stroke-dasharray="4 3">
+    <rect x="34" y="22" width="120" height="104" rx="8"/>
+    <rect x="186" y="22" width="120" height="104" rx="8"/>
+    <rect x="338" y="22" width="120" height="104" rx="8"/>
+    <rect x="490" y="22" width="120" height="104" rx="8"/>
+  </g>
+  <circle cx="76" cy="74" r="32" fill="#b9cbe6"/>
+  <circle cx="112" cy="74" r="32" fill="#b9cbe6"/>
+  <g clip-path="url(#clipA1)">
+    <circle cx="264" cy="74" r="32" fill="#b9cbe6"/>
+  </g>
+  <circle cx="380" cy="74" r="32" fill="#b9cbe6"/>
+  <g clip-path="url(#clipB2)">
+    <circle cx="380" cy="74" r="32" fill="#ffffff"/>
+  </g>
+  <rect x="490" y="22" width="120" height="104" rx="8" fill="#b9cbe6"/>
+  <circle cx="532" cy="74" r="32" fill="#ffffff"/>
+  <g fill="none" stroke="#1f2328" stroke-width="1.6">
+    <circle cx="76" cy="74" r="32"/>
+    <circle cx="112" cy="74" r="32"/>
+    <circle cx="228" cy="74" r="32"/>
+    <circle cx="264" cy="74" r="32"/>
+    <circle cx="380" cy="74" r="32"/>
+    <circle cx="416" cy="74" r="32"/>
+    <circle cx="532" cy="74" r="32"/>
+    <circle cx="568" cy="74" r="32"/>
+  </g>
+  <g fill="#1f2328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">
+    <text x="58" y="80">A</text>
+    <text x="128" y="80">B</text>
+    <text x="210" y="80">A</text>
+    <text x="280" y="80">B</text>
+    <text x="362" y="80">A</text>
+    <text x="432" y="80">B</text>
+    <text x="514" y="80">A</text>
+    <text x="586" y="80">B</text>
+  </g>
+  <g fill="#1f2328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle">
+    <text x="94" y="152">A ∪ B（并）</text>
+    <text x="246" y="152">A ∩ B（交）</text>
+    <text x="398" y="152">A − B（差）</text>
+    <text x="550" y="152">Ω − A（对立）</text>
+  </g>
+</svg>

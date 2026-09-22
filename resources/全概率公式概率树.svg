@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 360" width="620" height="360" role="img" aria-label="全概率公式的概率树示意图">
+  <rect x="0" y="0" width="620" height="360" fill="#ffffff" rx="8"/>
+  <g stroke="#1f2328" stroke-width="1.6" fill="none">
+    <line x1="34" y1="155" x2="180" y2="55"/>
+    <line x1="34" y1="155" x2="180" y2="155"/>
+    <line x1="34" y1="155" x2="180" y2="255"/>
+    <line x1="180" y1="55" x2="400" y2="30"/>
+    <line x1="180" y1="55" x2="400" y2="80"/>
+    <line x1="180" y1="155" x2="400" y2="130"/>
+    <line x1="180" y1="155" x2="400" y2="180"/>
+    <line x1="180" y1="255" x2="400" y2="230"/>
+    <line x1="180" y1="255" x2="400" y2="280"/>
+  </g>
+  <g fill="#ffffff">
+    <rect x="85" y="94" width="44" height="15"/>
+    <rect x="85" y="142" width="44" height="15"/>
+    <rect x="85" y="192" width="44" height="15"/>
+    <rect x="263" y="28" width="58" height="15"/>
+    <rect x="256" y="53" width="72" height="15"/>
+    <rect x="263" y="128" width="58" height="15"/>
+    <rect x="256" y="153" width="72" height="15"/>
+    <rect x="263" y="228" width="58" height="15"/>
+    <rect x="256" y="253" width="72" height="15"/>
+  </g>
+  <g fill="#1f2328">
+    <circle cx="34" cy="155" r="3.6"/>
+    <circle cx="180" cy="55" r="3.6"/>
+    <circle cx="180" cy="155" r="3.6"/>
+    <circle cx="180" cy="255" r="3.6"/>
+  </g>
+  <g fill="#1f2328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">
+    <text x="34" y="140">Ω</text>
+    <text x="180" y="42">A1</text>
+    <text x="180" y="142">A2</text>
+    <text x="180" y="242">A3</text>
+  </g>
+  <g fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">
+    <text x="107" y="104">P(A1)</text>
+    <text x="107" y="152">P(A2)</text>
+    <text x="107" y="202">P(A3)</text>
+    <text x="292" y="38">P(B|A1)</text>
+    <text x="292" y="63">P(非B|A1)</text>
+    <text x="292" y="138">P(B|A2)</text>
+    <text x="292" y="163">P(非B|A2)</text>
+    <text x="292" y="238">P(B|A3)</text>
+    <text x="292" y="263">P(非B|A3)</text>
+  </g>
+  <g fill="#1f2328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">
+    <text x="412" y="34">A1B</text>
+    <text x="412" y="84">A1 非B</text>
+    <text x="412" y="134">A2B</text>
+    <text x="412" y="184">A2 非B</text>
+    <text x="412" y="234">A3B</text>
+    <text x="412" y="284">A3 非B</text>
+  </g>
+  <text x="310" y="330" text-anchor="middle" fill="#1f2328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">P(B) = P(A1)P(B|A1) + P(A2)P(B|A2) + P(A3)P(B|A3)</text>
+</svg>
