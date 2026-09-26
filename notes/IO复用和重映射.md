@@ -7,7 +7,7 @@ tags:
 archived: false
 ---
 
-[STM32](./STM32.md) / 2. GPIO
+[STM32](./STM32.md) / 2. GPIO / 2.2 IO复用和重映射
 
 # IO复用和重映射
 
@@ -19,6 +19,6 @@ archived: false
 
 ## 相关笔记
 
-- 上一篇:[STM32F103C8T6芯片引脚分布](STM32F103C8T6芯片引脚分布.md)
-- 下一篇:[四种输出模式](./四种输出模式.md)
-- 返回索引:[STM32](./STM32.md)
+- 上一篇: [STM32F103C8T6芯片引脚分布](STM32F103C8T6芯片引脚分布.md)
+- 下一篇: [四种输出模式](./四种输出模式.md)
+- 返回索引: [STM32](./STM32.md)
