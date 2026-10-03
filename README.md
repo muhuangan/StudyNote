@@ -14,3 +14,4 @@
 5. [《大学物理》](./notes/大学物理.md)
 6. [《电磁场与波》](./notes/电磁场与波.md)
 7. [《复变函数》](./notes/复变函数.md)
+8. [《Robo Master电控》](./notes/robomaster.md)
