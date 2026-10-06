@@ -5,7 +5,7 @@
 ## 结构
 
 - `README.md` — 总目录, 链接到各书索引.
-- `notes/<书名>.md` — 9 个索引文件(高等数学、概率论、电磁场与波、复变函数、大学物理、数据结构、STM32、数电、Robo Master电控); `notes/` 下其余 413 个 `.md` 是原子子笔记, `提问的智慧.md` 是单文件笔记.
+- `notes/<书名>.md` — 9 个索引文件(高等数学、概率论、电磁场与波、复变函数、大学物理、数据结构、STM32、数电、Robo Master电控); `notes/` 下其余 418 个 `.md` 是原子子笔记, `提问的智慧.md` 是单文件笔记.
 - `resources/` — 图片, 子笔记中以 `../resources/...` 引用.
 - `templates/笔记模板.md` — Obsidian 模板, 只含 frontmatter 骨架.
 - `.obsidian/`、`.stfolder/`、`.stignore`、`.workbuddy/` 被 gitignore, 其改动不入库.
