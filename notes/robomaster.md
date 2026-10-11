@@ -28,3 +28,12 @@ archived: false
 - 3.3 [PID的优化方案](./PID的优化方案.md)
 - 3.4 [多环PID](./多环PID.md)
 - 3.5 [前馈PID](./前馈PID.md)
+
+## 4. FreeRTOS
+
+- 4.1 [内存管理](./FreeRTOS内存管理.md)
+- 4.2 [任务管理](./FreeRTOS任务管理.md)
+- 4.3 [队列管理](./FreeRTOS队列管理.md)
+- 4.4 [软件定时器](./FreeRTOS软件定时器.md)
+- 4.5 [中断管理](./FreeRTOS中断管理.md)
+- 4.6 [资源管理](./FreeRTOS资源管理.md)
